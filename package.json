@@ -1,0 +1,14 @@
+{
+  "name": "bugr-eats",
+  "version": "1.0.0",
+  "description": "buger-eats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Marco Plá",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
