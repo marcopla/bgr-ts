@@ -10,6 +10,6 @@ describe('Cadastro de entregador ', () => {
 
   it('verificar se botão de retorno para a home funciona.', () => {
     cy.contains('a', 'Cadastre-se para fazer entregas').click();
-    cy.get('h1').should('contain', 'Cadastre-se');
+    cy.contains('a', 'Voltar para home').click();
   });
 });
