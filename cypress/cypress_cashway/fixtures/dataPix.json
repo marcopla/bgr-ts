@@ -1,0 +1,9 @@
+{
+    "siteInternetBanking":"https://ib.cashway.io/",
+    "costumerAccount": "94",
+    "costumerPassword" : "11111111",
+    "sendPixKey" : "dac30b95-5fed-4de5-8649-600c73fbb57c",
+    "sendPixValue" : "0,01",
+    "transactionPassword" : "1111",
+    "pixDescription" : "Teste QA CashWay"
+}

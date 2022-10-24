@@ -1,0 +1,13 @@
+{ "clients" : [
+    {
+      "siteInternetBanking":"https://ib.cashway.io/",
+      "costumerAccount": "94",
+      "costumerPassword" : "11111111"
+    },
+    {
+      "siteInternetBanking":"https://ib.cashway.io/",
+      "costumerAccount": "94",
+      "costumerPassword" : "11111111"
+    }
+] 
+}
